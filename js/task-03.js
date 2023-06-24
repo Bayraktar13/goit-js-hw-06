@@ -45,7 +45,6 @@ const result = createGallery(images);
 
 ul.insertAdjacentHTML("beforeend", result);
 
-const firstLi = document.querySelector(".gallery li:first-child");
 
 
 
