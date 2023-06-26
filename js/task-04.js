@@ -13,3 +13,4 @@ increment.addEventListener("click", () => {
   counter += 1;
   valueEl.textContent = counter;
 });
+

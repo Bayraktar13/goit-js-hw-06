@@ -44,8 +44,3 @@ const createGallery = (images) => {
 const result = createGallery(images);
 
 ul.insertAdjacentHTML("beforeend", result);
-
-
-
-
-
